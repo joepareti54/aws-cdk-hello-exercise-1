@@ -1,7 +1,0 @@
- echo ./cdk-env/lib/python3.10/site-packages/jsii/_metadata.json; cat   ./cdk-env/lib/python3.10/site-packages/jsii/_metadata.json   | grep -i akia
- echo ./cdk.json; cat   ./cdk.json   | grep -i akia
- echo ./cdk.out/HelloStack.assets.json; cat   ./cdk.out/HelloStack.assets.json   | grep -i akia
- echo ./cdk.out/HelloStack.metadata.json; cat   ./cdk.out/HelloStack.metadata.json   | grep -i akia
- echo ./cdk.out/HelloStack.template.json; cat   ./cdk.out/HelloStack.template.json   | grep -i akia
- echo ./cdk.out/manifest.json; cat   ./cdk.out/manifest.json   | grep -i akia
- echo ./cdk.out/tree.json; cat   ./cdk.out/tree.json   | grep -i akia
