@@ -1,0 +1,7 @@
+cdk-env/
+cdk.out/
+__pycache__/
+*.pyc
+.env
+.aws/
+node_modules/
